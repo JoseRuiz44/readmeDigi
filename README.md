@@ -103,9 +103,9 @@ EJEMPLO DE BLOQUE DE CÓDIGO
 }
 ```
 ```java
-  public class holaMundo {
-	  public static void main(String[] args) {
-      System.out.println("Hola mundo");
-    }
-  }
+public class holaMundo {
+	public static void main(String[] args) {
+	System.out.println("Hola mundo");
+	}
+}
 ```
